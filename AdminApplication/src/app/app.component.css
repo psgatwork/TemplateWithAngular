@@ -1,0 +1,46 @@
+.profile-dropdown {
+    left: auto !important;
+    right: 0;
+}
+
+.single-product-image {
+    max-height: 400px;
+}
+
+.form-manual {
+    width: 800px;
+}
+
+.list-inline-item:hover {
+    color: orangered;
+    cursor: pointer;
+}
+
+.card:hover {
+    border-color: orangered;
+    cursor: pointer;
+}
+
+.view-text-values {
+    color: darkgoldenrod;
+}
+
+#icAdminSearchCustomer {
+    margin-left: 10px;
+}
+
+#lbAdminSearchCustomer {
+    margin-left: 50px;
+}
+
+#admin-customer-search-button {
+    border-radius: 0rem !important;
+}
+
+#icAdminSearchCustomer {
+    border-radius: 0rem !important;
+}
+
+.admin-form-main-control {
+    width: 600px;
+}
